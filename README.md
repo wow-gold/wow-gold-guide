@@ -1,6 +1,16 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/). 
+
+The layout of this repository is as follows:
+
+- docs - Contains all the actual content that is part of the guide.
+- shared-content - This is where I store all the content that might be included in multiple pages. 
+- src - Custom code to help supplement the content.
+- static - Static resources for top level things in the site.
+
+
+## Development 
 
 ### Installation
 
