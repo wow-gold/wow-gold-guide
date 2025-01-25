@@ -32,3 +32,7 @@
 .wowhead-tooltip tr {
   border-top: none !important;
 }
+
+.wowhead-tooltip table {
+  overflow: hidden;
+}
