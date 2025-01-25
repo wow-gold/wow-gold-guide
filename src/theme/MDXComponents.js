@@ -4,6 +4,8 @@ import MDXComponents from '@theme-original/MDXComponents';
 import WowHeadItem from '@site/src/components/WowHeadItem';
 import WowHeadZone from '@site/src/components/WowHeadZone';
 import WowHeadSpell from '@site/src/components/WowHeadSpell';
+import WowHeadNpc from '@site/src/components/WowHeadNpc';
+
 export default {
   // Re-use the default mapping
   ...MDXComponents,
@@ -11,5 +13,6 @@ export default {
   // `Highlight` will receive all props that were passed to `<Highlight>` in MDX
   WowHeadItem,
   WowHeadZone,
-  WowHeadSpell
+  WowHeadSpell,
+  WowHeadNpc
 };
