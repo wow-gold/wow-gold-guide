@@ -1,6 +1,6 @@
 # Character Setup
 
-The good news is that you can use any character in your gold making journey.  However, many people prefer to use druids as their primary farming character because a druid with a [speed set](./setup/speedsets) will be the fastest character in your arsenal and allow you to farm items quickly.
+The good news is that you can use any character in your gold making journey.  However, many people prefer to use druids as their primary farming character because a druid with a [speed set](./speedsets) will be the fastest character in your arsenal and allow you to farm items quickly.
 
 If you are doing transmog or non-current content many dungeon farms contain locked chests, so having the ability to open chests on your farming character is beneficial.  
 
