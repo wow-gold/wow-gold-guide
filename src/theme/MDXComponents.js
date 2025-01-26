@@ -5,6 +5,8 @@ import WowHeadItem from '@site/src/components/WowHeadItem';
 import WowHeadZone from '@site/src/components/WowHeadZone';
 import WowHeadSpell from '@site/src/components/WowHeadSpell';
 import WowHeadNpc from '@site/src/components/WowHeadNpc';
+import WowHeadSkill from '@site/src/components/WowHeadSkill'; 
+import WowHeadClass from '@site/src/components/WowHeadClass';
 
 export default {
   // Re-use the default mapping
@@ -14,5 +16,7 @@ export default {
   WowHeadItem,
   WowHeadZone,
   WowHeadSpell,
-  WowHeadNpc
+  WowHeadNpc,
+  WowHeadSkill,
+  WowHeadClass
 };

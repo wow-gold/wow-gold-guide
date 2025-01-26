@@ -84,7 +84,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/wow-gold/wow-gold-guide',
             label: 'GitHub',
             position: 'right',
           },
