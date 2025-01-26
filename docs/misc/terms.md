@@ -11,11 +11,13 @@ A 5-man group usually refers to a farm that is best done with a full group.
 All the Things (ATT) is a popular addon to World of Warcraft that tracks everything in the game and allows players to find what they are missing. Some twitch streamers focus on increasing their ATT percentage. From a gold making perspective ATT allows players to find transmog they are missing and might look for it on the Auction House.
 
 ## Auction House (AH)
-The auction house in World of Warcraft is where players can buy and sell items. Consumables 
+The auction house in World of Warcraft is where players can buy and sell items. Consumables are shared across all realms within a region, while non-consumables (e.g. non-stackable loot) are realm specific.
 
 ## Bind on Equip (BOE)
+Bind on Equip (BOE) refers to items that can be sold or traded with other players and are not bound to the player until the item is used.
 
 ## Bind on Pickup (BOP)
+Bind on Pickup (BOP) refers to items that are bound to the player immediately after being looted. They cannot be sold on the auction house.
 
 ## Hyperspawn
 Certain mobs in World of Warcraft are tied to quest chains.  In order for the game to ensure players doing the quests have mobs to kill there is usually a minimum number of that creatures that needs to be alive in the game.  Hyperspawning is a tactic used by the gold making community to cause mobs to spawn very quickly by continuously killing as many as possible. This increases the amount of loot that everyone obtains because more mobs are being killed. An example of a hyperspawn farm is the [Silithus](/farms/openworld/silithus) farm.

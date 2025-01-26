@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function WowHeadZone({children, id}) {
+export default function WowHeadNpc({children, id}) {
     var url = "https://www.wowhead.com/npc=" + id;
     var item = "npc=" + id;
   return (

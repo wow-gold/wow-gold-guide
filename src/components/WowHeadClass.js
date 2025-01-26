@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function WowHeadClass({children, id}) {
-    var url = "https://www.wowhead.com/class=" + id;
+    var url = "https://www.wowhead.com/class=" + id + `/${children}`;
     var item = "class=" + id;
   return (
     
