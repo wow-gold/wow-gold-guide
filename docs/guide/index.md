@@ -1,5 +1,5 @@
-# Introduction
-Welcome to the WoW gold guide.  In this guide we will cover the basics of gold making in World of Warcraft and how you can go from 0 to becoming a WoW millionaire. We'll start here with some of the high level strategies for making gold. We will then move on to setting you up for success by getting your characters setup in an optimal manner and getting some optional addons that will make your life much easier.  Everyone has a different approach to making gold and as long as you are profitable, do what works for you. Finally, we will get into specifics of various farms you can do to start making your gold.
+# WoW Gold Guide
+Welcome to the WoW gold guide a gold making guide for World of Warcraft.  In this guide we will cover the basics of gold making in World of Warcraft and how you can go from 0 to becoming a WoW millionaire. We'll start here with some of the high level strategies for making gold. We will then move on to setting you up for success by getting your characters setup in an optimal manner and getting some optional addons that will make your life much easier.  Everyone has a different approach to making gold and as long as you are profitable, do what works for you. Finally, we will get into specifics of various farms you can do to start making your gold.
 
 ## Gold Making Strategies
 There are a few different gold making strategies that people use to create their wealth. We'll cover a few of them in this section and talk about the pros and cons of each.
