@@ -6,4 +6,12 @@ Your goal is to find a number of world quests that are easy to do and provide a 
 ## Addons
 To start it is recommended, but not required, to use a world quest addon like [World Quests List](https://www.curseforge.com/wow/addons/world-quests-list) to consolidate the list of world quests on your map. These make it very easy to scan the lists of world quests for a zone or all zones in an expansion and find the ones that will provide you the best options to obtain gold.
 
+TODO: put an image here.
+![]()
+
 ## Finding Quests
+
+### Dragon Riding
+
+### Raw Gold
+
