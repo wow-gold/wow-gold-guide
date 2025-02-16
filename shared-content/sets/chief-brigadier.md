@@ -1,0 +1,10 @@
+- <WowHeadItem id="6411">Chief Brigadier Armor</WowHeadItem>
+- <WowHeadItem id="6412">Chief Brigadier Boots</WowHeadItem>
+- <WowHeadItem id="6413">Chief Brigadier Bracers</WowHeadItem>
+- <WowHeadItem id="4726">Chief Brigadier Cloak</WowHeadItem>
+- <WowHeadItem id="4078">Chief Brigadier Coif</WowHeadItem>
+- <WowHeadItem id="1988">Chief Brigadier Gauntlets</WowHeadItem>
+- <WowHeadItem id="4727">Chief Brigadier Girdle</WowHeadItem>
+- <WowHeadItem id="4079">Chief Brigadier Leggings</WowHeadItem>
+- <WowHeadItem id="4725">Chief Brigadier Pauldrons</WowHeadItem>
+- <WowHeadItem id="4068">Chief Brigadier Shield</WowHeadItem>
